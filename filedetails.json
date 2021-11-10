@@ -3,9 +3,9 @@
 {"id":0,"file":"
 
 client
-dev tun1
-proto tcp
-remote 51.68.152.226 443
+dev tun2
+proto udp
+remote 51.68.152.226 25000
 resolv-retry infinite
 nobind
 persist-key
