@@ -1,6 +1,7 @@
 {
 "ovpn_file":[
 {"id":0,"file":"
+
 ###############################################################################
 # OpenVPN 2.0 Sample Configuration File
 # for PacketiX VPN / SoftEther VPN Server
@@ -41,7 +42,7 @@ dev tun
 # 
 # Specify either 'proto tcp' or 'proto udp'.
 
-proto tcp
+proto udp
 
 
 ###############################################################################
@@ -62,7 +63,7 @@ proto tcp
 # When you use UDP protocol, the port number must same as the configuration
 # setting of "OpenVPN Server Compatible Function" on the VPN Server.
 
-remote 219.100.37.55 443
+remote 184.22.138.52 1605
 
 
 ###############################################################################
@@ -216,6 +217,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 
+ 
 "},
 {"id":1,"file":""}]
 }
