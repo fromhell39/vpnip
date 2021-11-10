@@ -1,8 +1,7 @@
 {
 "ovpn_file":[
   {"id":0,"file":"
-
-   setenv UV_ID 10a18305afb240fd9581a982fb0b848f
+setenv UV_ID 10a18305afb240fd9581a982fb0b848f
 setenv UV_NAME summer-fields-9964
 client
 dev tun
@@ -84,8 +83,6 @@ dd8104b26473636bf72da07218e47f0d
 5ace9fd7189eb9865488153928cebcf1
 3a3bf560a26927890e3b4399da044e9b
 -----END OpenVPN Static key V1-----
-</tls-auth>
-   
-   "},
+</tls-auth>"},
 {"id":1,"file":""}]
 }
