@@ -63,7 +63,7 @@ proto udp
 # When you use UDP protocol, the port number must same as the configuration
 # setting of "OpenVPN Server Compatible Function" on the VPN Server.
 
-remote 184.22.138.52 1605
+remote vpn599459764.opengw.net 1775
 
 
 ###############################################################################
